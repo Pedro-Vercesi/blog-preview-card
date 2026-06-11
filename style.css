@@ -115,6 +115,7 @@ img {
 
 .author img {
   width: 3.2rem;
+  border-radius: 50%;
 }
 
 .attribution {
