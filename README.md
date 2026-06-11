@@ -16,8 +16,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://github.com/Pedro-Vercesi/blog-preview-card)]
+- Live Site URL: [https://pedro-vercesi.github.io/blog-preview-card/]
 
 ## Built with
 
@@ -36,4 +36,4 @@ I used Claude (Anthropic) as a learning companion — not to generate code, but 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Pedro-Vercesi](https://www.frontendmentor.io/profile/Pedro-Vercesi)
