@@ -37,7 +37,6 @@ body {
 }
 
 img {
-  width: 100%;
   max-width: 100%;
   display: block;
 }
@@ -113,6 +112,7 @@ img {
 .author {
   gap: var(--spacing-l);
 }
+
 .author img {
   width: 3.2rem;
 }
